@@ -1,5 +1,7 @@
 First International Workshop on Facilitating Continuous EducaTion and tRaining through AI iN SoFtware EnginneRing (F-TRANSFER)
 
+ IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+ 
 <!--
 **f-transfer/f-transfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
