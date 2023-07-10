@@ -1,4 +1,4 @@
-### Hi there 👋
+First International Workshop on Facilitating Continuous EducaTion and tRaining through AI iN SoFtware EnginneRing (F-TRANSFER)
 
 <!--
 **f-transfer/f-transfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-First International Workshop on Facilitating Continuous EducaTion and tRaining through AI iN SoFtware EnginneRing (F-TRANSFER)
+
